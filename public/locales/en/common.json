@@ -1,0 +1,26 @@
+{
+  "of": "of",
+  "records": "records",
+  "emptySearch": "No records were found",
+  "search": "Search...",
+  "sidenav": {
+    "collapse": "Collapse Menu"
+  },
+  "badPassType": "Bad Pasword Type",
+  "menu": {
+    "docs": "Documents",
+    "credentials": "Credentials",
+    "options": "Options"
+  },
+  "rules": {
+    "required": "This field is required",
+    "minLength": "Type at least {{value}} chars",
+    "maxLength": "Can't type more than {{value}} chars"
+  },
+  "dialog": {
+    "areYouSure": "Are you sure?",
+    "message": "You can't revert this",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  }
+}

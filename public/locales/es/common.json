@@ -1,0 +1,26 @@
+{
+  "of": "de",
+  "records": "registros",
+  "emptySearch": "No se econtraron registros",
+  "search": "Buscar...",
+  "sidenav": {
+    "collapse": "Esconder Menú"
+  },
+  "badPassType": "Tipo de clave desconocido",
+  "menu": {
+    "docs": "Documentos",
+    "credentials": "Credenciales",
+    "options": "Opciones"
+  },
+  "rules": {
+    "required": "Este campo es requerido",
+    "minLength": "Escribe al menos {{value}} caracteres",
+    "maxLength": "El máximo de longitud de este campo es de {{value}} caracteres"
+  },
+  "dialog": {
+    "areYouSure": "¿Estas seguro?",
+    "message": "No podrás rehacer esta acción",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar"
+  }
+}
